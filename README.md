@@ -6,8 +6,7 @@
 - 🔭 I’m currently working on a personal **Data Visualization Project using Tableau Public**
 - 🌱 I’m currently learning about **Unsupervised Machine Learning**
 - 💬 Ask me about **Data Wrangling, Data Modelling and Statistics**
-- 📫 How to reach me: <div id="badges">
-  <a href="https://www.linkedin.com/in/ashvalvaidya/">
+- 📫 How to reach me: <div id="badges"> <a href="https://www.linkedin.com/in/ashvalvaidya/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
