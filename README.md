@@ -9,10 +9,14 @@
 - 📫 How to reach me: **https://www.linkedin.com/in/ashvalvaidya/**
 - ⚡ Fun fact: **I have played every FIFA (EA Sports FC) game since FIFA 2006 :)**
 
+
+
 ![image](https://github.com/vaidya-ashval/vaidya-ashval/assets/119542733/c3c536d5-29fb-4010-93cb-37a19aef3e56)
 https://www.linkedin.com/in/ashvalvaidya/
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!--
 **vaidya-ashval/vaidya-ashval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
