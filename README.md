@@ -1,4 +1,17 @@
 ## Bonjour!! 👋 My name is Ashval 
+-------------------------------------------------------------------------------------------
+### Data Analyst/Data Scientist
+
+
+- 🔭 I’m currently working on a personal **Data Visualization Project using Tableau Public**
+- 🌱 I’m currently learning about **Unsupervised Machine Learning**
+- 💬 Ask me about **Data Wrangling, Data Modelling and Statistics**
+- 📫 How to reach me: **https://www.linkedin.com/in/ashvalvaidya/**
+- ⚡ Fun fact: **I have played every FIFA (EA Sports FC) game since FIFA 2006 :)**
+
+![image](https://github.com/vaidya-ashval/vaidya-ashval/assets/119542733/c3c536d5-29fb-4010-93cb-37a19aef3e56)
+https://www.linkedin.com/in/ashvalvaidya/
+
 
 
 <!--
@@ -6,12 +19,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Data Wrangling, Data Modelling and Statistics
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
